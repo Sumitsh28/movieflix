@@ -1,5 +1,5 @@
 
-![Logo]([https://anyimage.io/storage/uploads/2a72487889433874097e89324edf1b06](https://github.com/Sumitsh28/movieflix/blob/main/src/resources/down.png))
+![Logo]((https://github.com/Sumitsh28/movieflix/blob/main/src/resources/down.png)](https://github.com/Sumitsh28/movieflix/blob/main/src/resources/down.png))
 
 
 # MOVIE-FLIX
